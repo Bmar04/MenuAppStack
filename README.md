@@ -1,1 +1,1 @@
-A simple application to store menu items off the day, with multiple classes and a stack implmentation from stratch.
+A simple application to store menu items of the day, with multiple classes and a stack implementation from scratch.
